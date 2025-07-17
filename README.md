@@ -17,7 +17,7 @@ A professional Excel-based dashboard to visualize and analyze sales performance 
 
 ## 📈 Chart Mapping
 
-| 📂 Data Area                   | 📊 Recommended Chart Type              |
+| 📂 Data Area                   | 📊  Chart Type              |
 |-------------------------------|----------------------------------------|
 | Sales by Category/SubCategory | Column or Bar Chart                    |
 | Sales & Profit                | Clustered Column + Line Chart (Combo)  |
